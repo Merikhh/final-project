@@ -1,0 +1,24 @@
+.formulaire {
+  display: flex;
+  justify-content: center;
+  margin-top: 3%;
+}
+#button {
+  margin-top: 3%;
+  width: 100%;
+  border: none;
+  letter-spacing: 1px;
+  font-weight: 500;
+  border-radius: 25px;
+  text-transform: uppercase;
+}
+#messageForName,
+#messageForEmail,
+#messageForPassword,
+#messageForNumber {
+  color: red;
+  font-size: 10px;
+}
+.lembi{
+    text-decoration-style: none;
+}
